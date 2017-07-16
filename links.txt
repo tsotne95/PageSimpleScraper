@@ -1,0 +1,325 @@
+#	URL	Text
+1	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Contract=Without%2520Contract&rt=nc	Without Contract (13,551)
+2	http://www.ebay.com/p/samsung-galaxy-note-edge-sm-n915fy-32gb-unlocked-smartphone-black-white-black/759453847?iid=252868333291&var=551881261004	See more like thisSamsung Galaxy Note Edge SM-N915FY 32GB Unlocked Smartphone Black/White
+3	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Model=Samsung%2520Galaxy%2520S6%2520edge&rt=nc	Samsung Galaxy S6 edge (1,606)
+4	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Color=Blue&rt=nc	Blue (1,553)
+5	http://my.ebay.com/ws/eBayISAPI.dll?MyEbayBeta&CurrentPage=MyeBayNextListIndex&wl=1	Wish list
+6	http://www.ebay.com/itm/Samsung-Galaxy-S6-EDGE-G925V-Smartphone-Verizon-GSM-Unlocked-32GB-/152623339794?var=&hash=item23890f5912:m:m8zsaDFMsBRwEK5gZFVlUFg	
+7	http://www.ebay.com/p/samsung-galaxy-s5-mini-duos-g800h-16gb-dual-sim-gsm-unlocked-4-5-smartphone-uk-white/1871025319?iid=252330871833&var=551175606144	See more like thisSamsung Galaxy S5 Mini Duos G800H 16GB Dual SIM GSM Unlocked 4.5'' Smartphone UK
+8	http://enable-javascript.com/	enable JavaScript on your browser
+9	http://www.ebay.com/itm/AT-T-Samsung-Galaxy-S7-Active-SM-G891-AT-T-Unlocked-GSM-Latest-Model-32GB-/322452533568?var=&hash=item4b13ab3140:m:m0FGp_8XOwYAdf_zlFr1eDg	AT&T Samsung Galaxy S7 Active SM-G891 AT&T Unlocked GSM Latest Model 32GB
+10	http://www.ebay.com/itm/Samsung-Galaxy-S5-SM-G900R4-16GB-Charcoal-Black-U-S-Cellular-Smartphone-/122600305376?epid=182482052&hash=item1c8b8c32e0:g:bp4AAOSw6YtZUUN-	
+11	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Storage%2520Capacity=64GB&rt=nc	64GB (2,154)
+12	http://www.ebay.com/p/299170-samsung-galaxy-a5-2017-32gb-black-origin-eu/503651888?iid=292177986789#UserReviews	
+13	http://www.ebay.com/itm/Samsung-Galaxy-S6-32GB-5-1-Quad-core1-5GHz-Quad-core-2-1GHz-G920A-AT-T-RAM-3G-/282357587001?hash=item41bdd2dc39:g:jiYAAOSw4A5YnzSa	Samsung Galaxy S6 32GB 5.1" Quad-core1.5GHz&Quad-core 2.1GHz G920A (AT&T) RAM:3G
+14	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Lock%2520Status=%21&rt=nc	Not Specified (25,399)
+15	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Color=Gray&rt=nc	Gray (1,395)
+16	https://ocsnext.ebay.com/ocs/home	Help & Contact
+17	http://www.ebay.com/p/samsung-rugby-4-black-factory-unlocked-cellular-phone/219924073?iid=301842446423#UserReviews	
+18	https://www.ebay.com/sch/Crafts/14339/i.html?_from=R40&_nkw=samsung	Crafts
+19	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Network=U%252ES%252E%2520Cellular&rt=nc	U.S. Cellular (717)
+20	http://www.ebay.com/itm/5-7-Samsung-Galaxy-Note-5-SM-N920V-Unlocked-32GB-Quad-core-Smartphone-BLT-/272676249127?var=&hash=item3f7cc55e27:m:m4WHP4X3L3-cJ9N7Kv1fIow	5.7" Samsung Galaxy Note 5 SM-N920V Unlocked 32GB Quad-core Smartphone BLT
+21	https://www.ebay.com/sch/Pottery-Glass/870/i.html?_from=R40&_nkw=samsung	Pottery & Glass
+22	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Screen%2520Size=4%252E5%252D4%252E9%2522&rt=nc	4.5-4.9" (99)
+23	http://pages.ebay.com/sitemap.html	Site Map
+24	http://www.ebay.com/itm/Samsung-Galaxy-Note-Edge-SM-N915P-32GB-Charcoal-Black-Sprint-CHOOSE-COND-/282432602154?var=&epid=210650019&hash=item41c24b802a:m:mNetO5AH1Dqf6LYrRwXZ_vw	Samsung Galaxy Note Edge SM-N915P - 32GB - Charcoal Black (Sprint) CHOOSE COND
+25	https://www.ebay.com/sch/Business-Industrial/12576/i.html?_from=R40&_nkw=samsung	Business & Industrial
+26	https://www.ebay.com/sch/Coins-Paper-Money/11116/i.html?_from=R40&_nkw=samsung	Coins & Paper Money
+27	https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.Xsamsung.TRS0&_nkw=samsung&_sacat=0	try again
+28	http://www.ebay.com/itm/SAMSUNG-GALAXY-S6-GOLD-RICONDIZIONATO-ACCESSORI-E-GARANZIA-/192204695504?hash=item2cc04ae7d0:g:aUoAAOSwq1JZMIEw	
+29	http://www.ebay.com/p/samsung-galaxy-a5-sm-a500f-16gb-pearl-white-unlocked-smartphone/208577713?iid=191829514330#UserReviews	6 product ratings
+30	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_pgn=3&_skc=100&rt=nc	3
+31	http://www.ebay.com/itm/SAMSUNG-NOTE-5-SM-N920C-32GB-OR-DORE-UTILISE-QUALITE-A-PARFAIT-CONDITION-SB-LIRE-/182663992933?epid=810304790&hash=item2a879f5665:g:TIIAAOSw1~JZQqv5	SAMSUNG NOTE 5 SM-N920C 32GB OR DORÉ UTILISÉ QUALITÉ À PARFAIT CONDITION SB LIRE
+32	http://www.ebay.com/itm/Samsung-Galaxy-Note-Edge-SM-N915FY-32GB-Unlocked-Smartphone-Black-White-/252868333291?var=&epid=759453847&hash=item3ae0208eeb:m:mcVsA7FCX-QgYzzNkUhgQ-w	
+33	https://www.ebay.com/sch/DVDs-Movies/11232/i.html?_from=R40&_nkw=samsung	DVDs & Movies
+34	https://www.ebay.com/sch/i.html?_sacat=0&_nkw=blackberry&_frs=1	blackberry
+35	http://www.ebay.com/itm/Samsung-Galaxy-A3-16GB-Silber-SM-A300F-ohne-Simlock-Smartphone-Handy-/122600234851?epid=208544158&hash=item1c8b8b1f63:g:VoAAAOSwFJBZQmQC	New listing Samsung Galaxy A3 16GB Silber (SM-A300F) ohne Simlock Smartphone Handy
+36	http://announcements.ebay.com	Announcements
+37	http://www.ebay.com/itm/SAMSUNG-NOTE-5-SM-N920C-32GB-OR-DORE-UTILISE-QUALITE-A-PARFAIT-CONDITION-SB-LIRE-/182663992933?epid=810304790&hash=item2a879f5665:g:TIIAAOSw1~JZQqv5	
+38	http://www.ebay.com/itm/5-7-Samsung-Galaxy-Note-5-SM-N920V-Unlocked-32GB-Quad-core-Smartphone-BLT-/272676249127?var=&hash=item3f7cc55e27:m:m4WHP4X3L3-cJ9N7Kv1fIow	
+39	https://ocsnext.ebay.com/ocs/home	Help & Contact
+40		moreFormat
+41	https://pages.ebay.com/ge/en-us/buy/popup/pricing.html	*Learn about pricing
+42	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Processor=Octa%2520Core&rt=nc	Octa Core (4,516)
+43	http://www.ebay.com/itm/Samsung-Galaxy-S7-S7-Edge-32GB-Unlocked-Metro-PCs-Smartphone-/252950152836?var=&hash=item3ae5010684:m:myTY9UffzQ9I-SZrD0hp_Rw	
+44	http://www.ebay.com/itm/in-Box-Samsung-Galaxy-S7-Edge-5-5-12MP-32GB-Factory-Unlocked-Black-Gold-Whit-/232380751815?var=&hash=item361af8dfc7:m:mwv78MU0Xh47hEH5C-vgTdA	
+45	https://www.ebay.com/sch/Toys-Hobbies/220/i.html?_from=R40&_nkw=samsung	Toys & Hobbies
+46		Best Match
+47	https://www.ebay.com/sch/Music/11233/i.html?_from=R40&_nkw=samsung	Music
+48	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Lock%2520Status=Factory%2520Unlocked&rt=nc	Factory Unlocked (7,390)
+49	http://www.ebay.com/itm/Samsung-Galaxy-S7-S7-Edge-32GB-Unlocked-Metro-PCs-Smartphone-/252950152836?var=&hash=item3ae5010684:m:myTY9UffzQ9I-SZrD0hp_Rw	Samsung Galaxy S7 & S7 Edge 32GB Unlocked Metro PCs Smartphone
+50	http://www.ebay.com/itm/Samsung-Galaxy-S7-Edge-S7-S6-Edge-S6-S5-32GB-Smartphone-US-TOP-SELLER-GRADE-A-/182661138542?var=&hash=item2a8773c86e:m:miyqJnK9KuPMwRU-sZentxQ	
+51	http://www.ebay.com/itm/MOVIL-SAMSUNG-GALAXY-S7-32GB-NEGRO-BLANCO-GRIS-NUEVO-LIBRE-1-ANO-DE-GARANT-A-/152488933538?epid=16003300611&hash=item23810c78a2:g:A~YAAOSwjvJZSpJO	MOVIL SAMSUNG GALAXY S7 32GB NEGRO BLANCO GRIS NUEVO LIBRE + 1 AÑO DE GARANTÍA
+52	http://pages.ebay.com/sellerinformation/index.html	Seller Information Center
+53	http://pages.ebay.com/help/policies/privacy-policy.html	Privacy
+54	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&rt=nc&LH_PrefLoc=3	US Only
+55	http://www.ebay.com/p/samsung-galaxy-xcover-2-gt-s7710-4gb-titanium-grey-unlocked-smartphone/170174205?iid=282044137156#UserReviews	4 product ratings
+56	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Color=Gold&rt=nc	Gold (2,677)
+57	http://www.ebay.com/itm/Excellent-Samsung-Galaxy-Note-5-SM-N920A-32GB-Blue-AT-T-FACTORY-UNLOCKED-/112413117135?hash=item1a2c580acf:g:F2UAAOSwK6RZH3yY	
+58	http://www.ebay.com/itm/Samsung-Galaxy-S7-S6-S6-Edge-S5-16GB-32GB-FACTORY-UNLOCKED-SmartPhone-/252990539504?var=&hash=item3ae76946f0:m:mhqJ7CNEjyNf63fqBZS4bcA	
+59	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_sop=10	Time: newly listed
+60	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Style=Bar&rt=nc	Bar (13,476)
+61	https://www.ebay.com/sch/Everything-Else/99/i.html?_from=R40&_nkw=samsung	Everything Else
+62	http://www.ebay.com/itm/Brand-New-Samsung-Galaxy-Note-4-Black-4G-16GB-Unlocked-Smart-Phone-BLLT-/272503205720?var=&hash=item3f7274ef58:m:mOm4_JVZ8dNDC5yv3p3CvBA	
+63	https://www.ebay.com/sch/Pet-Supplies/1281/i.html?_from=R40&_nkw=samsung	Pet Supplies
+64	http://www.ebay.com/p/samsung-galaxy-s7-edge-s6-edge-32gb-single-sim-smartphone-factory-unlocked-bllt-s5-gold-16gb/780470070?iid=272501911421&var=571562096311	See more like thisSamsung Galaxy S7 Edge/S6 Edge 32GB Single SIM Smartphone Factory Unlocked BLLT
+65	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_pgn=4&_skc=150&rt=nc	4
+66	https://www.ebay.com/sch/Health-Beauty/26395/i.html?_from=R40&_nkw=samsung	Health & Beauty
+67	https://www.ebay.com/sch/i.html?_sacat=0&_nkw=nokia&_frs=1	nokia
+68	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Brand=Unbranded%252FGeneric	Unbranded/Generic (1,038)
+69	http://www.ebay.com/p/samsung-galaxy-j5-black-16gb/2116482576?iid=122600362171	See more like thisSamsung Galaxy J5 (16GB Black)
+70	http://www.ebay.com/itm/Samsung-Galaxy-S7-Edge-32GB-Unlocked-GSM-Smartphone-Cell-Phone-White-Gold-Black-/232405551208?var=&hash=item361c734868:m:mtw0pLfs4jmg2O5MRk8S0KA	Samsung Galaxy S7 Edge 32GB Unlocked GSM Smartphone Cell Phone White Gold Black/
+71	https://www.ebay.com/sch/Jewelry-Watches/281/i.html?_from=R40&_nkw=samsung	Jewelry & Watches
+72	http://www.ebay.com/itm/NEW-AT-T-UNLOCKED-SAMSUNG-RUGBY-4-B780A-3MP-PTT-CONNECTIVITY-WI-FI-WATERPROOF-/301842446423?epid=219924073&hash=item4647363857:g:39UAAOSwPhdVExgV	NEW AT&T SAMSUNG RUGBY 4 B780A 3MP PTT CONNECTIVITY WI-FI WATERPROOF
+73	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Color=Silver&rt=nc	Silver (879)
+74	http://www.ebay.com/itm/MINT-Unlocked-AT-T-Samsung-Galaxy-Note-5-N920A-GSM-32GB-5-7-4G-LTE-Clean-IMEI-/302154540505?var=&hash=item4659d065d9:m:mSl8cP49y9c9iCvIP3KwJfw	
+75	https://www.ebay.com/sch/Baby/2984/i.html?_from=R40&_nkw=samsung	Baby
+76	http://www.ebay.com/itm/Samsung-Galaxy-Note-Edge-SM-N915FY-32GB-Unlocked-Smartphone-Black-White-/252868333291?var=&epid=759453847&hash=item3ae0208eeb:m:mcVsA7FCX-QgYzzNkUhgQ-w	Samsung Galaxy Note Edge SM-N915FY 32GB Unlocked Smartphone Black/White
+77	http://www.ebay.com/p/samsung-galaxy-note-edge-sm-n915p-32gb-charcoal-black-sprint-smartphone/210650019?iid=282432602154&var=581573037640#UserReviews	
+78	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Lock%2520Status=Network%2520Locked&rt=nc	Network Locked (6,768)
+79	https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.ebay.com&lang=en	Norton Secured - powered by Verisign
+80	https://www.ebay.com/sch/Clothing-Shoes-Accessories/11450/i.html?_from=R40&_nkw=samsung	Clothing, Shoes & Accessories
+81	http://globaldeals.ebay.com	Daily Deals
+82	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Processor=Quad%2520Core&rt=nc	Quad Core (6,163)
+83	http://www.ebay.com/itm/galaxy-s6-Att-T-Mobile-consumer-Cellular-/142440465762?hash=item212a1d0562:g:sVQAAOSw-ldZYOow	
+84	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Operating%2520System=Symbian&rt=nc	Symbian (422)
+85	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Features=Dual%2520SIM&rt=nc	Dual SIM (1,872)
+86	http://csr.ebay.com/cse/sell.jsf	Sell
+87	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_sop=16	Price + Shipping: highest first
+88	http://www.ebay.com/itm/Samsung-Galaxy-A3-2017-Negro-SMARTPHONE-LIBRE-/182648840213?epid=559832767&hash=item2a86b82015:g:I9oAAOSwHLNZWkUt	
+89	http://www.ebay.com/itm/Samsung-Galaxy-A3-2015-Unlocked-Sim-Free-Smartphone-/112404042480?var=&epid=2075373879&hash=item1a2bcd92f0:m:mAoNnnRS2y8RZP04UpmqEAw	
+90	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Features=Bluetooth%2520Enabled&rt=nc	Bluetooth Enabled (7,598)
+91	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Operating%2520System=Android&rt=nc	Android (27,675)
+92	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Model=Samsung%2520Galaxy%2520S8&rt=nc	Samsung Galaxy S8 (732)
+93	http://www.ebay.com/itm/Samsung-Galaxy-Note5-Note4-Unlocked-32GB-Smartphone-Note-5-Black-White-Gold-US-/172758030857?var=&hash=item28392e5a09:m:mdIAbnTz6QxtJir5_lPBZpA	
+94	http://www.ebay.com/itm/SAMSUNG-GALAXY-S6-GOLD-RICONDIZIONATO-ACCESSORI-E-GARANZIA-/192204695504?hash=item2cc04ae7d0:g:aUoAAOSwq1JZMIEw	SAMSUNG GALAXY S6 GOLD RICONDIZIONATO + ACCESSORI E GARANZIA
+95	https://www.ebay.com/sch/Cameras-Photo/625/i.html?_from=R40&_nkw=samsung	Cameras & Photo
+96	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&rt=nc&LH_PrefLoc=5	Europe
+97	http://www.ebay.com/itm/SAMSUNG-GALAXY-S-III-SGH-I747-16GB-Blue-MINT-UNLOCKED-ON-SALE-/282492909435?epid=1022829143&hash=item41c5e3b77b:g:m7EAAOSwpDdU891C	
+98	http://www.ebay.com/itm/Samsung-Galaxy-J5-16GB-Black-/122600362171?epid=2116482576&hash=item1c8b8d10bb:g:DksAAOSwTVtZahuX	
+99	http://www.ebay.com/itm/Samsung-Galaxy-S7-SM-G930V-32GB-Tmobile-Unlocked-GSM-Black-Gold-BLT-/272676219352?var=&hash=item3f7cc4e9d8:m:mZxY_kEI8JvWR-5emfVQd5A	Samsung Galaxy S7 SM-G930V 32GB Tmobile Unlocked GSM Black Gold BLT
+100	https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.Xsamsung.TRS0&_nkw=samsung&_sacat=0#	More
+101	http://www.ebay.com/itm/Samsung-Galaxy-S6-EDGE-G925V-Smartphone-Verizon-GSM-Unlocked-32GB-/152623339794?var=&hash=item23890f5912:m:m8zsaDFMsBRwEK5gZFVlUFg	Samsung Galaxy S6 EDGE G925V Smartphone Verizon GSM Unlocked 32GB
+102	http://mesg.ebay.com/mesgweb/ViewMessages/0	Messages
+103	http://www.ebay.com/itm/Samsung-Galaxy-S7-32GB-Tons-of-Extras-Mint-Grn-Gray-Ottor-box-case-B-I-N-/112482328919?hash=item1a30782157:g:3OoAAOSwjOdZaas8	
+104	https://www.ebay.com/sch/Art/550/i.html?_from=R40&_nkw=samsung	Art
+105	http://www.ebay.com/itm/Samsung-Galaxy-A3-2015-Unlocked-Sim-Free-Smartphone-/112404042480?var=&epid=2075373879&hash=item1a2bcd92f0:m:mAoNnnRS2y8RZP04UpmqEAw	Samsung Galaxy A3 2015 Unlocked Sim Free Smartphone
+106	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&rt=nc&LH_Auction=1	Auction
+107	https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.Xsamsung.TRS0&_nkw=samsung&_sacat=0#	Show more
+108	https://www.ebay.com/sch/i.html?_sacat=0&_nkw=samsung+galaxy+s2&_frs=1	samsung galaxy s2
+109	http://www.ebay.com/itm/Samsung-Galaxy-S8-G950FD-5-8-64GB-LTE-Dual-Sim-UNLOCKED-/253033017529?var=&hash=item3ae9f170b9:m:mke4noqhnnPM30jc1BMN4WA	
+110	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Storage%2520Capacity=8GB&rt=nc	8GB (2,193)
+111	http://www.ebay.com/p/samsung-galaxy-a3-sm-a300fu-16gb-platinum-silver-ohne-simlock-smartphone/208544158?iid=122600234851#UserReviews	
+112	http://pages.ebay.com/trp/index.html	Learn More
+113	http://www.ebay.com/p/samsung-galaxy-s5-sm-g900r4-16gb-charcoal-black-u-s-cellular-smartphone/182482052?iid=122600305376#UserReviews	104 product ratings
+114	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&rt=nc&LH_RPA=1	Returns accepted
+115	http://www.ebay.com/myb/Summary	Summary
+116	http://www.ebay.com/cln/_mycollections	My Collections
+117		Customize...
+118	http://www.ebay.com/p/299170-samsung-galaxy-a5-2017-32gb-black-origin-eu/503651888?iid=292177986789#UserReviews	1 product rating
+119		
+120	https://www.ebay.com/sch/i.html?_sacat=0&_nkw=motorola&_frs=1	motorola
+121	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Processor=Single%2520Core&rt=nc	Single Core (1,099)
+122	http://www.ebay.com/itm/Samsung-Galaxy-S7-Edge-S6-Edge-32GB-Single-SIM-Smartphone-Factory-Unlocked-BLLT-/272501911421?var=&epid=780470070&hash=item3f72612f7d:m:mrDmv9vWtZZz3grn-DZm1Zw	Samsung Galaxy S7 Edge/S6 Edge 32GB Single SIM Smartphone Factory Unlocked BLLT
+123	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_ipg=100&rt=nc	100
+124	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Features=4G%2520Data%2520Capable&rt=nc	4G Data Capable (6,452)
+125	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&rt=nc&LH_PrefLoc=6	Asia
+126	http://www.ebay.com/itm/Samsung-Galaxy-S7-Edge-32GB-Unlocked-GSM-Smartphone-Cell-Phone-White-Gold-Black-/232405551208?var=&hash=item361c734868:m:mtw0pLfs4jmg2O5MRk8S0KA	
+127	http://www.ebay.com/itm/Samsung-Galaxy-A9-Pro-2016-A9100-6-S-AMOLED-16MP-Android-Phone-By-FedEx-/222440620105?var=&hash=item33ca7e8049:m:mmY9jBoSXGUSZoDx5SHx9lg	
+128	https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.Xsamsung.TRS0&_nkw=samsung&_sacat=0#gh-eb-My	Expand My eBay
+129	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_sop=3	Price: highest first
+130	http://www.ebayinc.com	About eBay
+131	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Camera%2520Resolution=16%252E0%2520%252D%252019%252E9MP&rt=nc	16.0 - 19.9MP (516)
+132	https://www.ebay.com/sch/Video-Games-Consoles/1249/i.html?_from=R40&_nkw=samsung	Video Games & Consoles
+133	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Brand=Samsung	Samsung (37,803)
+134	http://www.ebay.com	eBay Feed
+135	https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&_trksid=m570.l3348	Sign in
+136	https://www.ebay.com/sch/Cell-Phone-Smartphone-Parts/43304/i.html?_from=R40&_nkw=samsung	Cell Phone & Smartphone Parts
+137	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Model=Samsung%2520Galaxy%2520S4&rt=nc	Samsung Galaxy S4 (1,122)
+138	http://www.ebay.com/itm/Samsung-Galaxy-S7-Edge-S6-Edge-Black-32GB-4G-LTE-Brand-New-Sealed-Unlocked-BLLT-/272508319106?var=&hash=item3f72c2f582:m:mwZQHlf1uxVLjKpRQVcCPnA	
+139	http://community.ebay.com	Community
+140	http://www.ebay.com/itm/Samsung-Galaxy-S5-Mini-Duos-G800H-16GB-Dual-SIM-GSM-Unlocked-4-5-Smartphone-UK-/252330871833?var=&epid=1871025319&hash=item3ac0178c19:m:mUYAb4KXDGOQ18wNJsQqz2Q	
+141	http://www.ebay.com/itm/AT-T-Samsung-Galaxy-S7-Active-SM-G891-AT-T-Unlocked-GSM-Latest-Model-32GB-/322452533568?var=&hash=item4b13ab3140:m:m0FGp_8XOwYAdf_zlFr1eDg	
+142	https://www.ebay.com/sch/Books/267/i.html?_from=R40&_nkw=samsung	Books
+143	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&rt=nc&LH_PrefLoc=4	North America
+144	http://www.ebay.com/sch/Samsung/bn_21834655/i.html	Shop Now
+145	http://pages.ebay.com/trp/index.html	Learn More
+146	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_sop=1	Time: ending soonest
+147	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Model=Samsung%2520Galaxy%2520Note5&rt=nc	Samsung Galaxy Note5 (1,025)
+148	https://www.ebay.com/	eBay
+149	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Processor=Dual%2520Core&rt=nc	Dual Core (1,478)
+150	https://cart.payments.ebay.com/sc/view	
+151		Refine
+152	http://www.ebay.com/itm/Samsung-Galaxy-S7-EDGE-SM-G935FD-FACTORY-UNLOCKED-Black-Blue-Silver-Gold-TOP-A-/172754279540?var=&hash=item2838f51c74:m:mH_CVwyXEMV-4yIp7vmtk-A	Samsung Galaxy S7 EDGE SM-G935FD (FACTORY UNLOCKED) Black Blue Silver Gold TOP A
+153	http://www.ebay.com/p/smartphone-samsung-galaxy-s7-gold-5-1/16003300611?iid=152488933538	See more like thisMOVIL SAMSUNG GALAXY S7 32GB NEGRO BLANCO GRIS NUEVO LIBRE + 1 AÑO DE GARANTÍA
+154	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_pgn=5&_skc=200&rt=nc	5
+155	http://www.ebay.com/itm/Samsung-Galaxy-Note-Edge-SM-N915P-32GB-Charcoal-Black-Sprint-CHOOSE-COND-/282432602154?var=&epid=210650019&hash=item41c24b802a:m:mNetO5AH1Dqf6LYrRwXZ_vw	
+156	http://www.ebay.com/itm/Samsung-Galaxy-S7-EDGE-SM-G935V-FACTORY-UNLOCKED-Black-Blue-Silver-Gold-/262979649383?var=&hash=item3d3aceff67:m:mk_CmkU-sUjGtBtTka_pdPg	Samsung Galaxy S7 EDGE SM-G935V(FACTORY UNLOCKED) Black Blue Silver Gold
+157	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_pgn=2&_skc=50&rt=nc	2
+158	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_sop=15	Price + Shipping: lowest first
+159	https://www.ebay.com/sch/Antiques/20081/i.html?_from=R40&_nkw=samsung	Antiques
+160	http://www.ebay.com/myb/BidsOffers	Bids/Offers
+161	http://www.ebay.com/itm/Samsung-Galaxy-Note5-Note4-Unlocked-32GB-Smartphone-Note-5-Black-White-Gold-US-/172758030857?var=&hash=item28392e5a09:m:mdIAbnTz6QxtJir5_lPBZpA	Samsung Galaxy Note5 Note4 Unlocked 32GB Smartphone Note 5 Black/ White/ Gold US
+162	http://www.ebay.com/itm/HDC-Space-S8-Edge-Pro-5-5-HD-Dual-Sim-Quad-Core-2GB-RAM-huella-dig-MarshMallow-/253033531636?hash=item3ae9f948f4:g:RpwAAOSwlndZNx8z	
+163	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&rt=nc&LH_Auction=1	Auction (11,673)
+164	http://www.ebay.com/itm/FACTORY-UNLOCKED-Samsung-Galaxy-S7-EDGE-SM-G935FD-Black-Blue-Silver-Gold-PHONE-/182650288622?var=&hash=item2a86ce39ee:m:mH_CVwyXEMV-4yIp7vmtk-A	(FACTORY UNLOCKED) Samsung Galaxy S7 EDGE SM-G935FD Black Blue Silver Gold PHONE
+165	https://www.ebay.com/sch/Home-Garden/11700/i.html?_from=R40&_nkw=samsung	Home & Garden
+166	http://www.ebay.com/itm/Samsung-Galaxy-S7-SM-G930V-32GB-Tmobile-Unlocked-GSM-Black-Gold-BLT-/272676219352?var=&hash=item3f7cc4e9d8:m:mZxY_kEI8JvWR-5emfVQd5A	
+167	http://www.ebay.com/itm/Samsung-Galaxy-S7-Edge-S6-Edge-Black-32GB-4G-LTE-Brand-New-Sealed-Unlocked-BLLT-/272508319106?var=&hash=item3f72c2f582:m:mwZQHlf1uxVLjKpRQVcCPnA	Samsung Galaxy S7 Edge S6 Edge Black 32GB 4G LTE Brand New Sealed Unlocked BLLT
+168	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_ipg=200&rt=nc	200
+169	http://www.ebay.com/p/samsung-note-5-sm-n920c-64gb-or-dora-utilisa-qualita-b-bonne/810304790?iid=182663992933	See more like thisSAMSUNG NOTE 5 SM-N920C 32GB OR DORÉ UTILISÉ QUALITÉ À PARFAIT CONDITION SB LIRE
+170	http://www.ebay.com/itm/Excellent-Samsung-Galaxy-Note-5-SM-N920A-32GB-Blue-AT-T-FACTORY-UNLOCKED-/112413117135?hash=item1a2c580acf:g:F2UAAOSwK6RZH3yY	Excellent Samsung Galaxy Note 5 SM-N920A - 32GB- Blue (AT&T) *FACTORY UNLOCKED*
+171	http://www.ebay.com/itm/New-Unlocked-Original-Samsung-Galaxy-A5-SM-A500F-16GB-13MP-GSM-Smartphone-Black-/201544046144?epid=3004729567&hash=item2eecf61640:g:~~cAAOSwAuNW65vM	
+172	http://www.ebay.com/itm/Samsung-Galaxy-S7-32GB-Tons-of-Extras-Mint-Grn-Gray-Ottor-box-case-B-I-N-/112482328919?hash=item1a30782157:g:3OoAAOSwjOdZaas8	Samsung Galaxy S7 - 32GB - Tons of Extras! Mint Grn./Gray Ottor box case B.I.N.
+173	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Storage%2520Capacity=16GB&rt=nc	16GB (7,090)
+174	http://www.ebay.com/itm/NEW-AT-T-UNLOCKED-SAMSUNG-RUGBY-4-B780A-3MP-PTT-CONNECTIVITY-WI-FI-WATERPROOF-/301842446423?epid=219924073&hash=item4647363857:g:39UAAOSwPhdVExgV	
+175	http://www.ebay.com/itm/Samsung-Galaxy-S7-Edge-S6-Edge-32GB-Single-SIM-Smartphone-Factory-Unlocked-BLLT-/272501911421?var=&epid=780470070&hash=item3f72612f7d:m:mrDmv9vWtZZz3grn-DZm1Zw	
+176	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_ipg=25&rt=nc	25
+177	http://my.ebay.com/ws/eBayISAPI.dll?MyEbayBeta&CurrentPage=MyeBayNextListIndex&tagId=-100&ssPageName=STRK:ME:LNLK:MESINDXX	All lists
+178	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Brand=Apple	Apple (138)
+179	http://www.ebay.com/itm/Samsung-Galaxy-S7-Active-G891A-FACTORY-UNLOCKED-32GB-Gray-Gold-Camo-4G-LTE-/152499430599?var=&hash=item2381aca4c7:m:mz7BuUkO5AULq3pLQ4JaATQ	Samsung Galaxy S7 Active G891A (FACTORY UNLOCKED) 32GB Gray Gold Camo 4G LTE
+180	https://www.ebay.com/sch/Smart-Watches/178893/i.html?_from=R40&_nkw=samsung	Smart Watches
+181	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Color=Black&rt=nc	Black (7,884)
+182	https://www.ebay.com/sch/Cell-Phones-Accessories/15032/i.html?_from=R40&_nkw=samsung	Cell Phones & Accessories
+183	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&rt=nc&LH_BIN=1	Buy It Now (21,922,563)
+184	http://www.ebay.com/itm/Samsung-Galaxy-S6-32GB-5-1-Quad-core1-5GHz-Quad-core-2-1GHz-G920A-AT-T-RAM-3G-/282357587001?hash=item41bdd2dc39:g:jiYAAOSw4A5YnzSa	
+185	https://www.ebay.com/sch/Collectibles/1/i.html?_from=R40&_nkw=samsung	Collectibles
+186	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&rt=nc	All Listings(selected) (21,932,363)
+187	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Color=White&rt=nc	White (4,365)
+188	http://www.ebay.com/itm/Samsung-Galaxy-S5-SM-G900R4-16GB-Charcoal-Black-U-S-Cellular-Smartphone-/122600305376?epid=182482052&hash=item1c8b8c32e0:g:bp4AAOSw6YtZUUN-	New listing Samsung Galaxy S5 SM-G900R4 - 16GB - Charcoal Black (U.S. Cellular) Smartphone
+189	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Network=MetroPCS&rt=nc	MetroPCS (466)
+190	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&rt=nc&LH_BIN=1	Buy It Now
+191	http://www.ebay.com/itm/Samsung-Galaxy-S8-G950FD-5-8-64GB-LTE-Dual-Sim-UNLOCKED-/253033017529?var=&hash=item3ae9f170b9:m:mke4noqhnnPM30jc1BMN4WA	Samsung Galaxy S8 G950FD 5.8" 64GB LTE Dual Sim UNLOCKED
+192	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&rt=nc&LH_ItemCondition=10	Not Specified (4,179)
+193	http://www.ebay.com/itm/Samsung-Galaxy-A9-Pro-2016-A9100-6-S-AMOLED-16MP-Android-Phone-By-FedEx-/222440620105?var=&hash=item33ca7e8049:m:mmY9jBoSXGUSZoDx5SHx9lg	Samsung Galaxy A9 Pro (2016) A9100 6" S.AMOLED 16MP Android Phone By FedEx
+194	http://www.ebay.com/itm/Samsung-Galaxy-S7-SM-G930V-FACTORY-UNLOCKED-32GB-Black-Silver-Gold-Sealed-Box-/122509512019?var=&hash=item1c8622cd53:m:mjQjqc6MczWBynpwF2yQnrw	Samsung Galaxy S7 SM-G930V FACTORY UNLOCKED 32GB - Black Silver Gold Sealed Box
+195	https://www.ebay.com/sch/Computers-Tablets-Networking/58058/i.html?_from=R40&_nkw=samsung	Computers/Tablets & Networking
+196	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Camera%2520Resolution=12%252E0%2520%252D%252015%252E9MP&rt=nc	12.0 - 15.9MP (666)
+197	https://www.ebay.com/sch/i.html?_sacat=0&_nkw=lg&_frs=1	lg
+198	http://www.ebay.com/itm/Samsung-Galaxy-Note-FE-FAN-EDITION-N935-Note-7-Silver-64GB-5-7-Phone-By-FedEx-/332298395042?hash=item4d5e871da2:g:raMAAOSwqVBZYoCQ	Samsung Galaxy Note FE FAN EDITION N935 Note 7 Silver 64GB 5.7" Phone By FedEx
+199	https://www.ebay.com/sch/Travel/3252/i.html?_from=R40&_nkw=samsung	Travel
+200	http://www.ebay.com/p/samsung-rugby-4-black-factory-unlocked-cellular-phone/219924073?iid=301842446423#UserReviews	99 product ratings
+201	http://www.ebay.com/p/samsung-galaxy-s6-edge-sm-g925a-32gb-black-at-t-smartphone/210745984?iid=152436300310&var=451741885900#UserReviews	
+202	http://www.ebay.com/itm/Samsung-Galaxy-S7-S6-S6-Edge-S5-16GB-32GB-FACTORY-UNLOCKED-SmartPhone-/252990539504?var=&hash=item3ae76946f0:m:mhqJ7CNEjyNf63fqBZS4bcA	Samsung Galaxy S7 / S6 / S6 Edge / S5 16GB / 32GB (FACTORY UNLOCKED) SmartPhone
+203	https://www.ebay.com/sch/i.html?_sacat=0&_nkw=samsung+galaxy+s3&_frs=1	samsung galaxy s3
+204	http://www.ebay.com/itm/Samsung-Galaxy-A3-2017-Negro-SMARTPHONE-LIBRE-/182648840213?epid=559832767&hash=item2a86b82015:g:I9oAAOSwHLNZWkUt	Samsung Galaxy A3 2017 Negro SMARTPHONE LIBRE
+205	http://www.ebay.com/p/samsung-galaxy-note-edge-sm-n915p-32gb-charcoal-black-sprint-smartphone/210650019?iid=282432602154&var=581573037640#UserReviews	59 product ratings
+206	http://pages.ebay.com/help/policies/user-agreement.html	User Agreement
+207	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Features=Touchscreen&rt=nc	Touchscreen (4,062)
+208	https://www.ebay.com/sch/i.html?_sacat=0&_nkw=htc&_frs=1	htc
+209	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&rt=nc&_dmd=2	Gallery view
+210	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Contract=Prepaid&rt=nc	Prepaid (607)
+211	http://www.ebay.com/p/samsung-galaxy-a3-sm-a300fu-16gb-platinum-silver-ohne-simlock-smartphone/208544158?iid=122600234851#UserReviews	1 product rating
+212	http://www.ebay.com/itm/Samsung-Galaxy-S7-SM-G930V-FACTORY-UNLOCKED-32GB-Black-Silver-Gold-Sealed-Box-/122509512019?var=&hash=item1c8622cd53:m:mjQjqc6MczWBynpwF2yQnrw	
+213	http://www.ebay.com/p/samsung-galaxy-a5-sm-a500f-16gb-midnight-black-unlocked-smartphone/3004729567?iid=201544046144	See more like thisNew Unlocked Original Samsung Galaxy A5 SM-A500F 16GB 13MP GSM Smartphone Black
+214	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Storage%2520Capacity=32GB&rt=nc	32GB (11,936)
+215	https://www.ebay.com/sch/ebayadvsearch	Advanced
+216	http://pages.ebay.com/help/policies/overview.html	Policies
+217	https://www.ebay.com/sch/Cell-Phones-Smartphones/9355/i.html?_from=R40&_nkw=samsung	Cell Phones & Smartphones
+218	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Network=Verizon&rt=nc	Verizon (3,985)
+219	http://www.ebay.com/itm/Samsung-Galaxy-S6-Edge-Unlocked-32GB-64GB-128GB-Gold-White-Blue-AT-T-Tmobile-SB-/152436300310?var=&epid=210745984&hash=item237de95a16:m:mHdDD3u0Bc4omCLWmTq58lQ	Samsung Galaxy S6 Edge Unlocked 32GB 64GB 128GB Gold White Blue AT&T Tmobile SB
+220	http://www.ebay.com/itm/galaxy-s6-Att-T-Mobile-consumer-Cellular-/142440465762?hash=item212a1d0562:g:sVQAAOSw-ldZYOow	galaxy s6. Att T-Mobile consumer Cellular
+221	http://www.ebay.com/p/samsung-galaxy-s6-edge-sm-g925a-32gb-black-at-t-smartphone/210745984?iid=152436300310&var=451741885900#UserReviews	68 product ratings
+222	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Features=Wi%252DFi%2520Capable&rt=nc	Wi-Fi Capable (4,079)
+223	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Screen%2520Size=5%252E0%252D5%252E4%2522&rt=nc	5.0-5.4" (1,322)
+224	http://www.ebay.com/itm/Brand-New-Samsung-Galaxy-Xcover-2-GT-S7710-Titanium-Grey-Unlocked-Smartphone-/282044137156?epid=170174205&hash=item41ab23fec4:g:i8YAAOSwVcFXOs9G	
+225	http://www.ebay.com/itm/HDC-Space-S8-Edge-Pro-5-5-HD-Dual-Sim-Quad-Core-2GB-RAM-huella-dig-MarshMallow-/253033531636?hash=item3ae9f948f4:g:RpwAAOSwlndZNx8z	HDC Space S8 Edge Pro 5.5" HD Dual Sim Quad Core 2GB RAM huella dig. MarshMallow
+226	http://www.ebay.com/itm/Samsung-Galaxy-S5-Mini-Duos-G800H-16GB-Dual-SIM-GSM-Unlocked-4-5-Smartphone-UK-/252330871833?var=&epid=1871025319&hash=item3ac0178c19:m:mUYAb4KXDGOQ18wNJsQqz2Q	Samsung Galaxy S5 Mini Duos G800H 16GB Dual SIM GSM Unlocked 4.5'' Smartphone UK
+227	https://www.ebay.com/sch/i.html?_sacat=0&_nkw=samsung+tablet&_frs=1	samsung tablet
+228	http://www.ebay.com/itm/MINT-Unlocked-AT-T-Samsung-Galaxy-Note-5-N920A-GSM-32GB-5-7-4G-LTE-Clean-IMEI-/302154540505?var=&hash=item4659d065d9:m:mSl8cP49y9c9iCvIP3KwJfw	MINT Unlocked AT&T Samsung Galaxy Note 5 N920A GSM 32GB 5.7" 4G LTE Clean IMEI
+229	http://www.ebay.com/itm/New-Unlocked-Original-Samsung-Galaxy-A5-SM-A500F-16GB-13MP-GSM-Smartphone-Black-/201544046144?epid=3004729567&hash=item2eecf61640:g:~~cAAOSwAuNW65vM	New Unlocked Original Samsung Galaxy A5 SM-A500F 16GB 13MP GSM Smartphone Black
+230	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Screen%2520Size=3%252E9%2522%2520%2526%2520Under&rt=nc	3.9" & Under (940)
+231	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&rt=nc&LH_PrefLoc=0	on eBay.com
+232		
+233	https://www.ebay.com/sch/i.html?_sacat=0&_nkw=samsung+galaxy+s4&_frs=1	samsung galaxy s4
+234	http://www.ebay.com/itm/Brand-New-Samsung-Galaxy-Note-4-Black-4G-16GB-Unlocked-Smart-Phone-BLLT-/272503205720?var=&hash=item3f7274ef58:m:mOm4_JVZ8dNDC5yv3p3CvBA	Brand New Samsung Galaxy Note 4 Black 4G 16GB Unlocked Smart Phone BLLT
+235	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&rt=nc	1
+236	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Features=Fingerprint%2520Sensor&rt=nc	Fingerprint Sensor (3,585)
+237	http://www.ebay.com/itm/New-Samsung-GT-S5611-Unlocked-3G-Bluetooth-5MP-Camera-FM-Radio-Mobile-Phone-/222572733461?epid=219583380&hash=item33d25e6415:g:I6sAAOSw2ENW8Xaf	
+238	http://www.ebay.com/itm/New-Samsung-GT-S5611-Unlocked-3G-Bluetooth-5MP-Camera-FM-Radio-Mobile-Phone-/222572733461?epid=219583380&hash=item33d25e6415:g:I6sAAOSw2ENW8Xaf	New Samsung GT S5611 Unlocked 3G Bluetooth 5MP Camera FM Radio Mobile Phone
+239	http://my.ebay.com/ws/eBayISAPI.dll?MyEbay&gbh=1&CurrentPage=MyeBayAllFavorites	Followed searches
+240	http://www.ebay.com/itm/Samsung-Galaxy-S6-Edge-G925F-4G-32GB-White-SIM-Free-Brand-New-Sealed-BLLT-/272508300809?var=&hash=item3f72c2ae09:m:mJxGbf1JmbFer1XdZgQVlaw	Samsung Galaxy S6 Edge G925F 4G 32GB White SIM Free Brand New Sealed BLLT
+241	http://qu.ebay.com/survey?srvName=SRP%20%28JELLO%29	Tell us what you think
+242	http://www.ebay.com/itm/Samsung-Galaxy-S7-Edge-S7-S6-Edge-S6-S5-32GB-Smartphone-US-TOP-SELLER-GRADE-A-/182661138542?var=&hash=item2a8773c86e:m:miyqJnK9KuPMwRU-sZentxQ	Samsung Galaxy S7 Edge/S7/S6 Edge/S6/S5 32GB Smartphone US TOP SELLER GRADE A++
+243	http://www.ebay.com/itm/New-Unlocked-Samsung-Galaxy-Alpha-SM-G850F-32GB-4-7-SmartPhone-Charcoal-Black-/201610269926?hash=item2ef0e894e6:g:X74AAOSwmtJXbPat	
+244		More refinements...
+245	http://cgi6.ebay.com/ws/eBayISAPI.dll?AdChoiceLandingPage&partner=0	AdChoice
+246	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Network=Cricket&rt=nc	Cricket (193)
+247	http://www.ebay.com/itm/FACTORY-UNLOCKED-Samsung-Galaxy-S7-EDGE-SM-G935FD-Black-Blue-Silver-Gold-PHONE-/182650288622?var=&hash=item2a86ce39ee:m:mH_CVwyXEMV-4yIp7vmtk-A	
+248	http://my.ebay.com/ws/eBayISAPI.dll?MyEbay&gbh=1&CurrentPage=MyeBayAllSelling&ssPageName=STRK:ME:LNLK:MESX	Selling
+249	http://www.ebay.com/itm/Samsung-Galaxy-A5-SM-A520F-Model-Year-2017-Black-32GB-Garanzia-Ufficiale-/292177986789?epid=503651888&hash=item44072a44e5:g:UPcAAOSw4DJYlJS-	Samsung Galaxy A5 SM-A520F Model Year 2017 Black, 32GB, Garanzia Ufficiale
+250	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&rt=nc&LH_FS=1	Free international shipping
+251	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&LH_Complete=1&LH_Sold=1&rt=nc	Sold listings
+252	https://www.ebay.com/sch/i.html?_sacat=0&_nkw=iphone&_frs=1	iphone
+253	https://www.ebay.com/sch/Cables-Adapters/123422/i.html?_from=R40&_nkw=samsung	Cell Phone Cables & Adapters
+254	https://www.ebay.com/sch/Sports-Mem-Cards-Fan-Shop/64482/i.html?_from=R40&_nkw=samsung	Sports Mem, Cards & Fan Shop
+255		50
+256	http://www.ebay.com/itm/Samsung-Galaxy-A5-SM-A520F-Model-Year-2017-Black-32GB-Garanzia-Ufficiale-/292177986789?epid=503651888&hash=item44072a44e5:g:UPcAAOSw4DJYlJS-	
+257	http://www.ebay.com/itm/Samsung-Galaxy-S7-EDGE-SM-G935FD-FACTORY-UNLOCKED-Black-Blue-Silver-Gold-TOP-A-/172754279540?var=&hash=item2838f51c74:m:mH_CVwyXEMV-4yIp7vmtk-A	
+258	http://www.ebay.com/itm/MOVIL-SAMSUNG-GALAXY-S7-32GB-NEGRO-BLANCO-GRIS-NUEVO-LIBRE-1-ANO-DE-GARANT-A-/152488933538?epid=16003300611&hash=item23810c78a2:g:A~YAAOSwjvJZSpJO	
+259	http://www.ebay.com/myb/WatchList	Watch list
+260	http://www.ebay.com/itm/in-Box-Samsung-Galaxy-S7-Edge-5-5-12MP-32GB-Factory-Unlocked-Black-Gold-Whit-/232380751815?var=&hash=item361af8dfc7:m:mwv78MU0Xh47hEH5C-vgTdA	(in Box) Samsung Galaxy S7 Edge 5.5" 12MP 32GB Factory Unlocked Black Gold Whit
+261	http://www.ebay.com/itm/Brand-New-Samsung-Galaxy-Xcover-2-GT-S7710-Titanium-Grey-Unlocked-Smartphone-/282044137156?epid=170174205&hash=item41ab23fec4:g:i8YAAOSwVcFXOs9G	Brand New Samsung Galaxy Xcover 2 GT-S7710 - Titanium Grey Unlocked Smartphone
+262	http://www.ebay.com/p/samsung-galaxy-s3-iii-sgh-i747-m-16gb-blue-parts-repair-broke/1022829143?iid=282492909435	See more like thisSAMSUNG GALAXY S III SGH-I747 - 16GB -Blue+ MINT+ UNLOCKED+ ON SALE !!!
+263	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Storage%2520Capacity=128GB&rt=nc	128GB (252)
+264	http://www.ebay.com/itm/New-Unlocked-Original-Samsung-Galaxy-A5-SM-A500F-16GB-13MP-GSM-Smartphone-White-/191829514330?epid=208577713&hash=item2ca9ee185a:g:DIkAAOSwr7ZW65vR	New Unlocked Original Samsung Galaxy A5 SM-A500F 16GB 13MP GSM Smartphone White
+265	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Network=AT%2526T&rt=nc	AT&T (2,952)
+266	http://www.ebay.com/p/samsung-gt-s5611-black-unlocked-cellular-phone/219583380?iid=222572733461	See more like thisNew Samsung GT S5611 Unlocked 3G Bluetooth 5MP Camera FM Radio Mobile Phone
+267	https://www.ebay.com/sch/Sporting-Goods/888/i.html?_from=R40&_nkw=samsung	Sporting Goods
+268	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Features=3G%2520Data%2520Capable&rt=nc	3G Data Capable (6,453)
+269	http://www.ebay.com/itm/Samsung-Galaxy-J5-16GB-Black-/122600362171?epid=2116482576&hash=item1c8b8d10bb:g:DksAAOSwTVtZahuX	New listing Samsung Galaxy J5 (16GB Black)
+270		
+271	https://www.ebay.com/sch/Cases-Covers-Skins/20349/i.html?_from=R40&_nkw=samsung	Cell Phone Cases, Covers & Skins
+272	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Storage%2520Capacity=256GB&rt=nc	256GB (50)
+273	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Model=Samsung%2520Galaxy%2520S7%2520edge&rt=nc	Samsung Galaxy S7 edge (2,597)
+274	https://www.ebay.com/sch/Gift-Cards-Coupons/172008/i.html?_from=R40&_nkw=samsung	Gift Cards & Coupons
+275	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Network=T%252DMobile&rt=nc	T-Mobile (2,004)
+276	http://www.ebay.com/itm/Samsung-Galaxy-S6-Edge-G925F-4G-32GB-White-SIM-Free-Brand-New-Sealed-BLLT-/272508300809?var=&hash=item3f72c2ae09:m:mJxGbf1JmbFer1XdZgQVlaw	
+277	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&rt=nc&LH_ItemCondition=3	New (21,816,855)
+278	https://www.ebay.com/sch/Entertainment-Memorabilia/45100/i.html?_from=R40&_nkw=samsung	Entertainment Memorabilia
+279	https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.Xsamsung.TRS0&_nkw=samsung&_sacat=0	Classified ads
+280	http://pages.ebay.com/securitycenter/index.html	Security Center
+281	http://pages.ebay.com/help/account/cookies-web-beacons.html	Cookies
+282	https://www.ebay.com/sch/Musical-Instruments-Gear/619/i.html?_from=R40&_nkw=samsung	Musical Instruments & Gear
+283	https://www.ebay.com/sch/i.html?_sacat=0&_nkw=samsung+galaxy&_frs=1	samsung galaxy
+284	http://www.ebay.com/itm/Samsung-Galaxy-S7-Active-G891A-FACTORY-UNLOCKED-32GB-Gray-Gold-Camo-4G-LTE-/152499430599?var=&hash=item2381aca4c7:m:mz7BuUkO5AULq3pLQ4JaATQ	
+285	http://www.ebay.com/itm/Samsung-Galaxy-S7-Edge-SM-G935F-FACTORY-UNLOCKED-White-Black-Silver-Gold-B9-/311910368145?var=&hash=item489f4e8391:m:mbEtaqF1ResiRjab20Cy_3g	Samsung Galaxy S7 Edge SM-G935F (FACTORY UNLOCKED) White Black Silver Gold B9
+286	https://www.ebay.com/sch/Consumer-Electronics/293/i.html?_from=R40&_nkw=samsung	Consumer Electronics
+287	https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.Xsamsung.TRS0&_nkw=samsung&_sacat=0#mainContent	Skip to main content
+288	http://www.ebay.com/myb/PurchaseHistory	Purchase history
+289	http://www.ebay.com/p/samsung-galaxy-s5-sm-g900r4-16gb-charcoal-black-u-s-cellular-smartphone/182482052?iid=122600305376#UserReviews	
+290	https://www.ebay.com/sch/eBay-Motors/6000/i.html?_from=R40&_nkw=samsung	eBay Motors
+291	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Model=Samsung%2520Galaxy%2520S7&rt=nc	Samsung Galaxy S7 (2,031)
+292	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&rt=nc&LH_ItemCondition=4	Used (111,329)
+293	http://www.ebay.com/p/samsung-galaxy-a3-unlocked-sim-smartphone-22998-unlocked-platinum-silver-good/2075373879?iid=112404042480&var=412804496061	See more like thisSamsung Galaxy A3 2015 Unlocked Sim Free Smartphone
+294	http://www.ebay.com/p/samsung-galaxy-a5-sm-a500f-16gb-pearl-white-unlocked-smartphone/208577713?iid=191829514330#UserReviews	
+295	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Network=Sprint&rt=nc	Sprint (1,621)
+296	http://my.ebay.com/ws/eBayISAPI.dll?MyEbay&gbh=1	My eBay
+297	https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.Xsamsung.TRS0&_nkw=samsung&_sacat=0#save	Follow this search
+298	http://www.ebay.com/itm/Samsung-Galaxy-A3-16GB-Silber-SM-A300F-ohne-Simlock-Smartphone-Handy-/122600234851?epid=208544158&hash=item1c8b8b1f63:g:VoAAAOSwFJBZQmQC	
+299	http://www.ebay.com/itm/Samsung-Galaxy-S6-32GB-64GB-128GB-Unlocked-Verizon-ATT-TMobile-Smartphone-/152063309636?var=&hash=item2367adf744:m:mzJGfXJ0w_j88f0-DYfT02g	Samsung Galaxy S6 32GB 64GB 128GB Unlocked Verizon ATT TMobile Smartphone
+300	http://www.ebay.com/p/samsung-galaxy-a3-2017-sm-a320-4-7-16gb-negro/559832767?iid=182648840213	See more like thisSamsung Galaxy A3 2017 Negro SMARTPHONE LIBRE
+301	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_pgn=2&_skc=50&rt=nc	
+302	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Screen%2520Size=4%252E0%252D4%252E4%2522&rt=nc	4.0-4.4" (1,044)
+303	http://www.ebay.com/itm/New-Unlocked-Samsung-Galaxy-Alpha-SM-G850F-32GB-4-7-SmartPhone-Charcoal-Black-/201610269926?hash=item2ef0e894e6:g:X74AAOSwmtJXbPat	New Unlocked Samsung Galaxy Alpha SM-G850F 32GB 4.7" SmartPhone Charcoal Black
+304	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Features=Music%2520Player&rt=nc	Music Player (4,537)
+305	http://www.ebay.com/itm/Samsung-Galaxy-S6-32GB-64GB-128GB-Unlocked-Verizon-ATT-TMobile-Smartphone-/152063309636?var=&hash=item2367adf744:m:mzJGfXJ0w_j88f0-DYfT02g	
+306	http://www.ebay.com/itm/Samsung-Galaxy-S6-Edge-Unlocked-32GB-64GB-128GB-Gold-White-Blue-AT-T-Tmobile-SB-/152436300310?var=&epid=210745984&hash=item237de95a16:m:mHdDD3u0Bc4omCLWmTq58lQ	
+307	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&rt=nc&LH_Savings=1	Deals & Savings
+308	http://www.ebay.com/itm/New-Unlocked-Original-Samsung-Galaxy-A5-SM-A500F-16GB-13MP-GSM-Smartphone-White-/191829514330?epid=208577713&hash=item2ca9ee185a:g:DIkAAOSwr7ZW65vR	
+309	http://www.ebay.com/p/samsung-galaxy-xcover-2-gt-s7710-4gb-titanium-grey-unlocked-smartphone/170174205?iid=282044137156#UserReviews	
+310	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Model=Samsung%2520Galaxy%2520S5&rt=nc	Samsung Galaxy S5 (3,072)
+311	http://resolutioncenter.ebay.com/	Resolution Center
+312	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Style=Flip&rt=nc	Flip (991)
+313	http://www.ebay.com/itm/Samsung-Galaxy-Note-FE-FAN-EDITION-N935-Note-7-Silver-64GB-5-7-Phone-By-FedEx-/332298395042?hash=item4d5e871da2:g:raMAAOSwqVBZYoCQ	
+314	http://www.ebay.com/itm/Samsung-Galaxy-S7-Edge-SM-G935F-FACTORY-UNLOCKED-White-Black-Silver-Gold-B9-/311910368145?var=&hash=item489f4e8391:m:mbEtaqF1ResiRjab20Cy_3g	
+315	https://www.ebaypartnernetwork.com/files/hub/en-US/index.html	Affiliates
+316	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Lock%2520Status=Network%2520Unlocked&rt=nc	Network Unlocked (4,352)
+317	https://www.ebay.com/sch/Specialty-Services/316/i.html?_from=R40&_nkw=samsung	Specialty Services
+318	https://www.ebay.com/sch/Stamps/260/i.html?_from=R40&_nkw=samsung	Stamps
+319	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&LH_Complete=1&rt=nc	Completed listings
+320	http://www.ebay.com/itm/SAMSUNG-GALAXY-S-III-SGH-I747-16GB-Blue-MINT-UNLOCKED-ON-SALE-/282492909435?epid=1022829143&hash=item41c5e3b77b:g:m7EAAOSwpDdU891C	SAMSUNG GALAXY S III SGH-I747 - 16GB -Blue+ MINT+ UNLOCKED+ ON SALE !!!
+321	https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=samsung&_dcat=9355&Model=Samsung%2520Galaxy%2520S6&rt=nc	Samsung Galaxy S6 (2,632)
+322	https://www.ebay.com/sch/i.html?_sacat=0&_nkw=samsung+tv&_frs=1	samsung tv
+323	https://www.ebay.com/sch/Chargers-Cradles/123417/i.html?_from=R40&_nkw=samsung	Cell Phone Chargers & Cradles
+324	http://www.ebay.com/itm/Samsung-Galaxy-S7-EDGE-SM-G935V-FACTORY-UNLOCKED-Black-Blue-Silver-Gold-/262979649383?var=&hash=item3d3aceff67:m:mk_CmkU-sUjGtBtTka_pdPg	
